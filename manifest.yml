@@ -1,0 +1,8 @@
+---
+name: IGV 2.9.0
+category: Interactive Apps
+subcategory: Data Viewers
+role: batch_connect
+description: |
+  This app will launch IGV 2.9.0 on the BIH cluser inside XFCE.
+

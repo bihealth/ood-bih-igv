@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=IGV 2.9.0
+Comment=IGV
+Exec=/opt/igv/2.9.0/igv.sh
+Path=/opt/igv/2.9.0
+Icon=/opt/igv/2.9.0/IGV_64.png
+Terminal=true
+Categories=Data Viewers;
+StartupNotify=true
